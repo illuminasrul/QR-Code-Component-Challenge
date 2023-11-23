@@ -9,7 +9,7 @@ I do not have access to the Figma sketch so i created one before jumping into co
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://illuminasrul.github.io/QR-Code-Component-Challenge/]
+- Live Site URL: https://illuminasrul.github.io/QR-Code-Component-Challenge/
 
 ## My process
 
