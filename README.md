@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>
-    <a href="nasrulkhakim-qr-code-component.netlify.app" color="white" target="_blank" >
+    <a href="https://nasrulkhakim-qr-code-component.netlify.app/" color="white" target="_blank" >
       Live
     </a>
     <span> | </span>
@@ -34,5 +34,6 @@ This is my first challenge from frontendmentor.io. The main challenge is to buil
 
 - Semantic HTML5 markup
 - CSS custom properties
+- Grid
 - Flexbox
 - Desktop-first workflow
