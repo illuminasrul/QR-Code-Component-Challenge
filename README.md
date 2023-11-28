@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://illuminasrul.github.io/QR-Code-Component-Challenge/" color="white" target="_blank" >
+    <a href="[https://illuminasrul.github.io/QR-Code-Component-Challenge/](https://nasrulkhakim-qr-code-component.netlify.app/)" color="white" target="_blank" >
       Live
     </a>
     <span> | </span>
